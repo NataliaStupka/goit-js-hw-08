@@ -1,1 +1,0 @@
-{"version":3,"sources":["js/02-video.js"],"names":["STOROGE_KEY"],"mappings":";AAAA,MAAMA,EAAc","file":"02-video.ddcd73a5.js","sourceRoot":"../src","sourcesContent":["const STOROGE_KEY = 'videoplayer-current-time';\n\n\n\n\n\n\n"]}
