@@ -9,7 +9,7 @@ const STOROGE_KEY = "feedback-form-state";
 const formEl = document.querySelector('.feedback-form');
 const inputEl = document.querySelector('.feedback-form input');
 const textareaEl = document.querySelector('.feedback-form textarea');
-// сохраним поля обьектом, используем атрибут name
+// сохраним поля обьектом, используем атрибут name.
 const formData = {}
 
 populateFormEl();
